@@ -1,0 +1,20 @@
+{
+  "name": "selfbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyik",
+  "license": "ISC",
+  "dependencies": {
+    "clear-it": "^1.0.0",
+    "cls": "^0.1.5",
+    "discord.js": "^11.6.4",
+    "node-fetch": "^2.6.1",
+    "readline-sync": "^1.4.10",
+    "termcolor": "^0.2.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
